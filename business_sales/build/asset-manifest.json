@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/biscuitShop/static/css/main.aaff13fb.css",
+    "main.js": "/biscuitShop/static/js/main.0d41581f.js",
+    "static/media/logo.svg": "/biscuitShop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/biscuitShop/index.html",
+    "main.aaff13fb.css.map": "/biscuitShop/static/css/main.aaff13fb.css.map",
+    "main.0d41581f.js.map": "/biscuitShop/static/js/main.0d41581f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaff13fb.css",
+    "static/js/main.0d41581f.js"
+  ]
+}

@@ -1,0 +1,48 @@
+.navbar {
+    width: 100%;
+    background-color: #434242;
+    color: white;
+}
+
+.navbar-toggler {
+    border-color: white;
+}
+
+.navbar-toggler-icon {
+    filter: invert(1);
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link.active {
+    text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+    .navbar-brand {
+        font-size: 18px;
+    }
+
+    .navbar-toggler {
+        font-size: 14px;
+    }
+
+    .navbar-collapse {
+        flex-direction: column;
+        align-items: start;
+    }
+
+    .navbar-nav {
+        flex-direction: column;
+    }
+
+    .nav-item {
+        margin-bottom: 10px;
+    }
+}
